@@ -17,4 +17,4 @@
         <li><b>pwd:</b> Muestra la ruta completa del directorio actual en el que te encuentras.</li>
     </ul>
 
-    <p>Estos comandos son fundamentales para navegar por el sistema de archivos y realizar diversas tareas en la línea de comandos.</p>
+   <p>Estos comandos son fundamentales para navegar por el sistema de archivos y realizar diversas tareas en la línea de comandos.</p>
